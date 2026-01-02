@@ -366,13 +366,4 @@ Proprietary - All rights reserved
 - Strands SDK for agent orchestration
 - Open source community for libraries and tools
 
-## 📞 Support
 
-For issues and questions:
-- Open an issue in the repository
-- Contact the development team
-- Check troubleshooting section in SETUP.md
-
----
-
-**Built with ❤️ using AI and Modern Web Technologies**
