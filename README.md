@@ -1,4 +1,4 @@
-# 🏦 LendIQ - AI-Powered Loan Verification System
+# LendIQ - AI-Powered Loan Verification System
 
 > An intelligent, automated loan verification platform powered by AWS Bedrock, multi-agent orchestration, and advanced document forensics.
 
